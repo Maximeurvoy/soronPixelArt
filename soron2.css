@@ -1,0 +1,20 @@
+.row {
+width: 100vh;
+height: 8.33vh;
+}
+
+.grey {
+background-color: grey;
+}
+
+.orange {
+background-color: orange;
+}
+
+.yellow {
+background-color: yellow;
+}
+
+.black {
+background-color: black;
+}
